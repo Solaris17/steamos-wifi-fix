@@ -20,11 +20,11 @@ This is needed because steamOS releases trail upstream linux in regards to bundl
 
 ## Tested on
 
-MSI Claw 7 AI+ (A2VM)
-Intel BE200
+MSI Claw 7 AI+ (A2VM)  
+Intel BE200  
 
-OS Update Channel: Main
-Steam Client Update Channel: Beta
+OS Update Channel: Main  
+Steam Client Update Channel: Beta  
 
 This is not exclusive to handhelds and may work on other devices.
 
