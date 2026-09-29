@@ -12,7 +12,7 @@ This is a quick and dirty script that is meant for MSI Claws.
 
 This script will attempt to detect your wifi cards pcie address (lspci) and the card name.
 
-It will then grab the upstream linux wifi firmware for your card and install it.
+It will then grab the upstream linux wifi/BT firmware for your card and install it.
 
 This is needed because steamOS releases trail upstream linux in regards to bundled FW.
 
