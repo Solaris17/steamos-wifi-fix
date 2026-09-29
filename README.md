@@ -15,3 +15,11 @@ Intel BE200
 
 Branch: Main
 Channel: Beta
+
+## How to use
+
+1: Get internet via external dongle or ethernet
+2: Download the script
+3: ```chmod a+x steamos-wifi-fix.sh```
+4: ```./steamos-wifi-fix.sh```
+5: Should work
